@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.27716325"
-     inkscape:cx="669.81207"
-     inkscape:cy="-63.884802"
+     inkscape:zoom="0.3321888"
+     inkscape:cx="770.37753"
+     inkscape:cy="240.46466"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3208,8 +3208,8 @@ AAAAAElFTkSuQmCC
        height="34.463863"
        width="34.463863" />
     <image
-       y="209.16216"
-       x="140.26933"
+       y="224.91032"
+       x="138.83449"
        id="image5044"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABoMAAAaDCAYAAAAl+FcfAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzs3V+MXOd5J+j3q3OKTbLY7G7SDGlamD6ebnvCDXabgTDAAiEk5mJnV7qxLswNZjFYUx7sYAEH
@@ -4576,5 +4576,16 @@ urFLxCD4CG+ep2u9AwAAAAB2nefaAAAAAAAAACLi/wG6aQnz23Yn1gAAAABJRU5ErkJggg==
        preserveAspectRatio="none"
        height="60.647587"
        width="60.647587" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="45.818115"
+       y="219.50012"
+       id="text5060"><tspan
+         sodipodi:role="line"
+         x="45.818115"
+         y="219.50012"
+         style="stroke-width:0.26458332"
+         id="tspan5062">/api/v1/accounts/1/sis_imports</tspan></text>
   </g>
 </svg>
