@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0251046"
-     inkscape:cx="326.17689"
-     inkscape:cy="599.7183"
+     inkscape:zoom="1.0903979"
+     inkscape:cx="533.60408"
+     inkscape:cy="416.54286"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -234,7 +234,7 @@
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"
        id="path5608"
-       d="m 66.038026,163.90835 c -26.54011,3.29795 -19.271965,33.36667 -19.271965,33.36667 l -2.266421,0.21759 4.619172,6.251 2.6649,-6.84141 -2.455294,0.2357 c 0,0 -3.307576,-21.60304 18.844423,-29.79371 z"
+       d="m 71.329693,163.90835 c -26.54011,3.29795 -19.271965,33.36667 -19.271965,33.36667 l -2.266421,0.21759 4.619172,6.251 2.6649,-6.84141 -2.455294,0.2357 c 0,0 -3.307576,-21.60304 18.844423,-29.79371 z"
        style="fill:#ffe5dd;fill-opacity:1;stroke:#000000;stroke-width:0.81872791;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g2391"
@@ -788,21 +788,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.04901028px;line-height:1.25;font-family:courier;-inkscape-font-specification:courier;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15122528"
        xml:space="preserve"
        transform="scale(1.0003068,0.99969329)"><tspan
-         id="tspan10151"
          style="text-align:end;text-anchor:end;stroke-width:0.15122528"
          y="131.39992"
          x="48.707035"
-         sodipodi:role="line">Anställda,</tspan><tspan
-         style="text-align:end;text-anchor:end;stroke-width:0.15122528"
-         y="138.96118"
-         x="48.707035"
          sodipodi:role="line"
-         id="tspan11561">Nattlig</tspan><tspan
-         style="text-align:end;text-anchor:end;stroke-width:0.15122528"
-         y="146.52245"
-         x="48.707035"
-         sodipodi:role="line"
-         id="tspan11563">läsning</tspan></text>
+         id="tspan11563">Anställda</tspan></text>
     <path
        style="fill:#ffe5dd;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 66.010032,151.10686 c 0,0 -27.036368,-15.55075 -11.227514,-22.19692 15.808854,-6.64617 23.100287,13.29234 23.100287,13.29234 l 2.581036,-1.16147 -2.516512,7.61406 -7.807638,-4.19418 2.645564,-1.03242 c 0,0 -1.613149,-12.77613 -14.453809,-11.22751 -12.840663,1.54862 10.582254,15.6798 10.582254,15.6798 z"
@@ -866,5 +856,95 @@
        height="16.988836"
        width="16.988836"
        style="opacity:0.397" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="174.94951"
+       y="133.69762"
+       id="text16320"><tspan
+         sodipodi:role="line"
+         id="tspan16318"
+         x="174.94951"
+         y="143.06139"
+         style="stroke-width:0.26458332"></tspan></text>
+    <text
+       transform="scale(1.0003068,0.99969329)"
+       id="text16324"
+       y="114.31754"
+       x="121.32758"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.60991621px;line-height:1.25;font-family:courier;-inkscape-font-specification:courier;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16524792"
+       xml:space="preserve"><tspan
+         id="tspan16322"
+         style="stroke-width:0.16524792"
+         y="114.31754"
+         x="121.32758"
+         sodipodi:role="line">Student</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.60991621px;line-height:1.25;font-family:courier;-inkscape-font-specification:courier;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16524792"
+       x="168.93794"
+       y="135.49071"
+       id="text16328"
+       transform="scale(1.0003068,0.99969329)"><tspan
+         sodipodi:role="line"
+         x="168.93794"
+         y="135.49071"
+         style="stroke-width:0.16524792"
+         id="tspan16326">RSS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.140003"
+       y="187.08026"
+       id="text16332"><tspan
+         sodipodi:role="line"
+         id="tspan16330"
+         x="53.140003"
+         y="196.44403"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       transform="scale(1.0003068,0.99969329)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.61024952px;line-height:1.25;font-family:courier;-inkscape-font-specification:courier;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14025626"
+       x="50.26833"
+       y="178.53633"
+       id="text16336"><tspan
+         id="tspan16334"
+         sodipodi:role="line"
+         x="50.26833"
+         y="178.53633"
+         style="text-align:end;text-anchor:end;stroke-width:0.14025626">Både anställda</tspan><tspan
+         sodipodi:role="line"
+         x="50.26833"
+         y="185.54915"
+         style="text-align:end;text-anchor:end;stroke-width:0.14025626"
+         id="tspan16338">och studenter</tspan></text>
+    <text
+       id="text16350"
+       y="145.98386"
+       x="222.93716"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.68477631px;line-height:1.25;font-family:courier;-inkscape-font-specification:courier;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11711942"
+       xml:space="preserve"
+       transform="scale(1.0003068,0.99969329)"><tspan
+         id="tspan16348"
+         style="text-align:end;text-anchor:end;stroke-width:0.11711942"
+         y="145.98386"
+         x="225.7462"
+         sodipodi:role="line">Skickar </tspan><tspan
+         style="text-align:end;text-anchor:end;stroke-width:0.11711942"
+         y="151.83983"
+         x="222.93716"
+         sodipodi:role="line"
+         id="tspan16358">användare</tspan><tspan
+         style="text-align:end;text-anchor:end;stroke-width:0.11711942"
+         y="157.6958"
+         x="222.93716"
+         sodipodi:role="line"
+         id="tspan16354">till Canvas</tspan><tspan
+         style="text-align:end;text-anchor:end;stroke-width:0.11711942"
+         y="163.55177"
+         x="222.93716"
+         sodipodi:role="line"
+         id="tspan16356" /></text>
   </g>
 </svg>
